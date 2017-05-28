@@ -1,2 +1,2 @@
 # FateCharacterGenerator
-Character Generator for the Roleplaying game Fate
+Character generator for the roleplaying game FreeFate (http://www.freefate.de/ for some reason there's no english website)
